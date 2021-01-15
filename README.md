@@ -10,5 +10,7 @@ your new password will appear in the password text box
 
 all set!
 
+<img src="Screen Shot 2021-01-14 at 4.02.48 PM.png">
+
 https://jitochadha1.github.io/passwordgenerator/
 
